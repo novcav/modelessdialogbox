@@ -27,12 +27,18 @@
     <ClInclude Include="ModelessDialogBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="modelessdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ModelessDialogBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modelessdialog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
